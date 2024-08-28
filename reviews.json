@@ -1,0 +1,124 @@
+{
+    "reviews": [
+        {
+            "professor": "Dr. Alice Johnson",
+            "subject": "Introduction to Computer Science",
+            "stars": 5,
+            "review": "Dr. Johnson explains concepts clearly and makes difficult topics easier to understand. Great lectures!"
+        },
+        {
+            "professor": "Prof. Michael Smith",
+            "subject": "Calculus I",
+            "stars": 4,
+            "review": "Good professor, but the pace of the class can be overwhelming at times. Weekly quizzes are helpful though."
+        },
+        {
+            "professor": "Dr. Sarah Lee",
+            "subject": "Modern Literature",
+            "stars": 5,
+            "review": "One of the best professors! She brings literature to life, and her classes are always engaging."
+        },
+        {
+            "professor": "Dr. Robert Kim",
+            "subject": "Organic Chemistry",
+            "stars": 2,
+            "review": "Very difficult course. Dr. Kim is knowledgeable, but the exams are extremely tough, and explanations could be clearer."
+        },
+        {
+            "professor": "Prof. Jessica Brown",
+            "subject": "World History",
+            "stars": 4,
+            "review": "Her lectures are thorough, and she is passionate about history. Workload is a bit heavy, but manageable."
+        },
+        {
+            "professor": "Dr. Emily Davis",
+            "subject": "Physics II",
+            "stars": 3,
+            "review": "The class material is challenging, and her teaching style can be a bit fast. However, the office hours are helpful."
+        },
+        {
+            "professor": "Prof. David Nguyen",
+            "subject": "Philosophy of Mind",
+            "stars": 5,
+            "review": "An inspiring professor with thought-provoking discussions. Made philosophy incredibly interesting."
+        },
+        {
+            "professor": "Dr. William Anderson",
+            "subject": "Macroeconomics",
+            "stars": 3,
+            "review": "Content is straightforward but his lectures can be a bit dry. The grading is fair though."
+        },
+        {
+            "professor": "Prof. Laura Miller",
+            "subject": "Introduction to Psychology",
+            "stars": 4,
+            "review": "Engaging and approachable. The exams were tough but fair. Great for beginners in psychology."
+        },
+        {
+            "professor": "Dr. Richard Carter",
+            "subject": "Statistics",
+            "stars": 2,
+            "review": "Difficult to follow in class. The material is hard, and he doesn't make it much easier. You'll need to study on your own."
+        },
+        {
+            "professor": "Prof. Jennifer Wilson",
+            "subject": "Sociology 101",
+            "stars": 4,
+            "review": "Very passionate about the subject. She makes class fun, and the discussions are enlightening."
+        },
+        {
+            "professor": "Dr. Mark Lewis",
+            "subject": "Artificial Intelligence",
+            "stars": 5,
+            "review": "Great professor with industry knowledge. His classes are difficult but highly rewarding for those willing to put in the effort."
+        },
+        {
+            "professor": "Prof. Megan White",
+            "subject": "Environmental Science",
+            "stars": 4,
+            "review": "Very knowledgeable and passionate about the environment. Her field trips and projects are fun and educational."
+        },
+        {
+            "professor": "Dr. Steven Green",
+            "subject": "Linear Algebra",
+            "stars": 3,
+            "review": "The course is tough, but he explains the material well. You will need to practice a lot outside of class."
+        },
+        {
+            "professor": "Prof. Anna Baker",
+            "subject": "Political Science",
+            "stars": 4,
+            "review": "She encourages critical thinking and class debates. The workload can be heavy, but you learn a lot."
+        },
+        {
+            "professor": "Dr. Samuel Turner",
+            "subject": "Biochemistry",
+            "stars": 3,
+            "review": "The subject is hard, and his exams are tricky. However, he's approachable and willing to help during office hours."
+        },
+        {
+            "professor": "Prof. Rachel Evans",
+            "subject": "Creative Writing",
+            "stars": 5,
+            "review": "Incredible professor! She is always supportive and encourages creativity. The assignments were enjoyable."
+        },
+        {
+            "professor": "Dr. Thomas Hall",
+            "subject": "Introduction to Law",
+            "stars": 4,
+            "review": "Great lecturer with real-world experience. His exams are hard, but if you pay attention in class, you’ll do well."
+        },
+        {
+            "professor": "Prof. Olivia Brown",
+            "subject": "Art History",
+            "stars": 5,
+            "review": "Very engaging lectures. Her passion for art is contagious, and her exams are fair."
+        },
+        {
+            "professor": "Dr. Charles Bennett",
+            "subject": "Neuroscience",
+            "stars": 4,
+            "review": "Challenging course, but he makes the complex topics understandable. You need to stay on top of the readings."
+        }
+    ]
+}
